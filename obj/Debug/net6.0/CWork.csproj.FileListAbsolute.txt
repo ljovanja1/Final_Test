@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\CWork\bin\Debug\net6.0\CWork.exe
+C:\Users\Роман\Desktop\CWork\bin\Debug\net6.0\CWork.deps.json
+C:\Users\Роман\Desktop\CWork\bin\Debug\net6.0\CWork.runtimeconfig.json
+C:\Users\Роман\Desktop\CWork\bin\Debug\net6.0\CWork.dll
+C:\Users\Роман\Desktop\CWork\bin\Debug\net6.0\CWork.pdb
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.AssemblyInfo.cs
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.dll
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\refint\CWork.dll
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.pdb
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\CWork.genruntimeconfig.cache
+C:\Users\Роман\Desktop\CWork\obj\Debug\net6.0\ref\CWork.dll
